@@ -26,8 +26,8 @@ Result Visualization: Highlight fractures on original image.
 
 ## PROGRAM:
 ```
-Developed By: PRAVINRAJJ G.K
-Register No: 212222240080
+Developed By: SRI KARTHICKEYAN GANAPATHY
+Register No: 212222240102
 ```
 ```py
 import cv2
